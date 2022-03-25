@@ -1,12 +1,8 @@
-.h1 {
-
-Color: white;
-Background-color: red;
-
+body {
+  background-color: lightblue;
 }
 
-.p {
-
-Color: red;
-
+h1 {
+  color: navy;
+  margin-left: 20px;
 }
